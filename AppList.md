@@ -372,6 +372,7 @@
 | 芒果TV                 | [com.hunantv.imgo.activity](/docs/com.hunantv.imgo.activity.md)                                   | 5               |
 | 蟒蛇下载               | [com.mangshe.tvdown](/docs/com.mangshe.tvdown.md)                                                 | 1               |
 | 慢慢买                 | [com.manmanbuy.bijia](/docs/com.manmanbuy.bijia.md)                                               | 1               |
+| 漫士多                 | [com.ck.mw](/docs/com.ck.mw.md)                                                                   | 2               |
 | 猫耳FM                 | [cn.missevan](/docs/cn.missevan.md)                                                               | 2               |
 | 猫眼                   | [com.sankuai.movie](/docs/com.sankuai.movie.md)                                                   | 2               |
 | 麻雀省钱               | [com.maque.app](/docs/com.maque.app.md)                                                           | 2               |
